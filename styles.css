@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 body {
-  background: no-repeat url("../img/Purpink.jpg");
+  background: no-repeat url("img/Purpink.jpg");
   height: 100vh;
   position: relative;
 }
