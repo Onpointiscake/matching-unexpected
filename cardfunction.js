@@ -1,7 +1,7 @@
 
 const mainMsg = document.getElementById('title');
 const cards = document.querySelectorAll('.card');
-console.log(mainMsg)
+
 // Win celebration:
 function checkWin()
 {
